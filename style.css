@@ -1,0 +1,119 @@
+h1{
+
+background-color: rgb(98, 164, 250);
+border: 3px solid red;
+border-radius: 20px;
+text-align: center;
+}
+
+i{
+
+color: brown;
+
+}
+
+h2{
+
+color: rgb(13, 203, 13);
+
+}
+
+.one{
+
+color: rgb(31, 49, 31);
+background-color: yellow;
+text-align: center;
+
+}
+
+.two{
+
+color: rgb(30, 54, 33);
+text-align: center;
+background-color: yellow;
+
+}
+
+
+input{
+
+width: 1400px;
+height: 30px;
+
+
+}
+
+button{
+
+color: rgb(255, 255, 255);
+background-color: blue;
+width: 300px;
+font-size: x-large  ;
+
+
+}
+
+.three{
+
+color: rgb(13, 47, 13);
+background-color: yellow;
+text-align: center;
+
+}
+
+table{
+
+border-collapse: collapse;
+color: white;
+
+
+
+}
+
+.four{
+
+background-color: green;
+
+}
+
+.five{
+
+background-color: blue;
+
+}
+
+.six{
+    
+background-color: red;
+
+}
+
+.seven{
+
+background-color: black;
+
+}
+
+.eight{
+
+background-color: red;
+
+}
+
+.nine{
+
+background-color: black;
+
+}
+
+table{
+
+text-align: center;
+width: 1500px;
+border: 1px solid white;
+border-collapse: collapse;
+
+
+
+}
+
